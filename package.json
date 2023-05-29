@@ -1,0 +1,12 @@
+{
+  "name": "@mrcyna/ts-project-template",
+  "version": "1.0.0",
+  "description": "A simple, pre-configured TS project to enjoy coding!",
+  "bin": "./cli.js",
+  "author": "Sina Ahmadpour",
+  "license": "ISC",
+  "volta": {
+    "node": "18.16.0"
+  },
+  "keywords": ["ts", "typescript", "starter", "nodejs", "template"]
+}
